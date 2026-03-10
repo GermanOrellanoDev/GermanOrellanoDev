@@ -19,6 +19,7 @@ Vengo de un background en **logística y abastecimiento**, lo que me dio una bas
 
 * JavaScript
 * React
+* Angular
 * TypeScript
 * HTML5, CSS3
 * Tailwind CSS, Bootstrap

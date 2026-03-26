@@ -1,6 +1,6 @@
 # 👋 Hola, soy Germán
 
-Soy **Desarrollador Full Stack Junior** con foco en **Java** y desarrollo web. Actualmente me encuentro construyendo proyectos reales para seguir afianzando mis conocimientos y poder crecer profesionalmente en el mundo IT.
+Soy **Desarrollador Full Stack** con foco en **Java** y desarrollo web. Actualmente me encuentro construyendo proyectos reales para seguir afianzando mis conocimientos y poder crecer profesionalmente en el mundo IT.
 
 Vengo de un background en **logística y abastecimiento**, lo que me dio una base sólida en organización, resolución de problemas y trabajo bajo presión, habilidades que hoy aplico al desarrollo de software.
 
